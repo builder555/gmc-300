@@ -1,5 +1,7 @@
 ## GMC-300/GMC-320 python interface
 
+Python interface for a GQ GMC-300, GMC-300E PLUS, GMC-320 geiger counters.
+
 ### Installation
 ```
 pipenv install

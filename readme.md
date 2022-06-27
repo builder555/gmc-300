@@ -4,6 +4,8 @@ Python interface for a GQ GMC-300, GMC-300E PLUS, GMC-320 geiger counters.
 
 For the most up to date information refer to the original GQ [website](http://www.gqelectronicsllc.com/comersus/store/download.asp)
 
+The code was tested on Debian and Mac OS.
+
 ### Installation
 ```bash
 pipenv install
